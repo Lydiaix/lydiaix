@@ -123,10 +123,7 @@ const lydiaix = {
 <br/>
 
 <!-- ═══════════════════════ SNAKE ANIMÉ ═══════════════════════ -->
-<!--
-  🐍 Décommente ce bloc UNIQUEMENT après avoir lancé la GitHub Action `snake.yml` une fois
-  (onglet Actions → Generate Snake Animation → Run workflow). Elle crée la branche `output`
-  qui héberge le SVG. Tant que l'action n'a pas tourné, ce lien est mort.
+<!-- 🐍 Nécessite d'avoir lancé la GitHub Action `snake.yml` une fois (crée la branche `output`) -->
 
 <div align="center">
 
@@ -135,7 +132,6 @@ const lydiaix = {
 </div>
 
 <br/>
--->
 
 
 <!-- ═══════════════════════ APPROCHE SÉCURITÉ ═══════════════════════ -->
