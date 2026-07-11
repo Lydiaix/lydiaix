@@ -3,7 +3,7 @@
 <!-- ═══════════════════════ HEADER ANIMÉ ═══════════════════════ -->
 
 <a href="https://lydiaix.fr">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=210&section=header&text=Lydiaix&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Vibe+Coder+%C2%B7+Full-Stack+%C2%B7+Security+Auditor&descAlignY=55&descSize=17&descAlign=50" width="100%" alt="Lydiaix banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=210&section=header&text=Lydiaix&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur+Full-Stack+%C2%B7+Auditeur+S%C3%A9curit%C3%A9+%C2%B7+Vibe+Coder&descAlignY=55&descSize=17&descAlign=50" width="100%" alt="Lydiaix banner"/>
 </a>
 
 <!-- ═══════════════════════ TYPING ANIMÉ ═══════════════════════ -->
@@ -24,70 +24,159 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Lydiaix&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS&labelColor=1e1b4b" alt="Profile views"/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
 
-<br/>
+</div>
 
 <!-- ═══════════════════════ À PROPOS ═══════════════════════ -->
 
-## 👋 À propos
+## 👨‍💻 À propos
 
 ```typescript
 const lydiaix = {
-  role: "Vibe Coder & Full-Stack Developer",
-  pilote: "Claude 🤖 — du prompt à la production",
+  role: "Développeur Full-Stack & Auditeur Sécurité",
+  copilote: "Claude 🤖 — du prompt à la production",
   stack: ["TypeScript", "React", "Node.js"],
-  focus: ["Développement logiciel", "Audits de sécurité", "Solutions robustes"],
+  expertise: ["Développement logiciel", "Audits de sécurité", "Architecture robuste"],
   methode: "Concevoir vite, sécuriser proprement, livrer solide",
   site: "https://lydiaix.fr",
   disponible: true,
-};
+} as const;
 ```
 
 - 🧠 Je conçois **tout type de logiciel** en pilotant **Claude** comme copilote de développement.
-- ⚡ Stack de prédilection : **TypeScript · React · Node.js**.
-- 🛡️ Je réalise des **audits de sécurité complets** et je propose des **solutions robustes**.
-- 🌐 Retrouvez mon travail sur **[lydiaix.fr](https://lydiaix.fr)**.
+- ⚡ Stack de prédilection : **TypeScript · React · Node.js** — du front au back, en production.
+- 🛡️ Je réalise des **audits de sécurité complets** (OWASP) et je livre des **correctifs concrets**, pas juste un rapport.
+- 🌐 Portfolio & contact : **[lydiaix.fr](https://lydiaix.fr)**
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
+</div>
 
-<!-- ═══════════════════════ STACK TECHNIQUE ═══════════════════════ -->
+<!-- ═══════════════════════ STACK TECHNIQUE ANIMÉE ═══════════════════════ -->
 
 ## 🛠️ Stack & Outils
 
 <div align="center">
 
-### Langages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Langages
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript"/>
+      <br/><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript"/>
+      <br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5"/>
+      <br/><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3"/>
+      <br/><sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
-### Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🎨 Frontend
 
-### Sécurité & DevOps
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React"/>
+      <br/><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js"/>
+      <br/><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS"/>
+      <br/><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite"/>
+      <br/><sub><b>Vite</b></sub>
+    </td>
+  </tr>
+</table>
 
-### IA & Workflow
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+### ⚙️ Backend & Data
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/>
+      <br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/>
+      <br/><sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API"/>
+      <br/><sub><b>REST API</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL"/>
+      <br/><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB"/>
+      <br/><sub><b>MongoDB</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🛡️ Sécurité & DevOps
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" alt="Docker"/>
+      <br/><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub"/>
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/owasp/8b5cf6" width="55" height="55" alt="OWASP"/>
+      <br/><sub><b>OWASP</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/jsonwebtokens/8b5cf6" width="55" height="55" alt="JWT"/>
+      <br/><sub><b>JWT</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🤖 IA & Workflow
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude"/>
+      <br/><sub><b>Claude</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" height="55" alt="Claude Code"/>
+      <br/><sub><b>Claude Code</b></sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
 
 </div>
-
-<br/>
 
 <!-- ═══════════════════════ STATS ANIMÉES ═══════════════════════ -->
 
@@ -129,10 +218,9 @@ const lydiaix = {
 
 <img src="https://raw.githubusercontent.com/Lydiaix/Lydiaix/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
+
 </div>
-
-<br/>
-
 
 <!-- ═══════════════════════ APPROCHE SÉCURITÉ ═══════════════════════ -->
 
@@ -143,11 +231,13 @@ const lydiaix = {
 | Étape | Ce que je fais |
 |-------|----------------|
 | 🔍 **Audit** | Analyse complète du code, des dépendances et de la surface d'attaque |
-| 🎯 **Threat modeling** | Identification des vecteurs selon les référentiels **OWASP Top 10** |
-| 🔒 **Durcissement** | Auth robuste, validation des entrées, gestion des secrets, headers HTTP |
+| 🎯 **Threat modeling** | Identification des vecteurs d'attaque selon le référentiel **OWASP Top 10** |
+| 🔒 **Durcissement** | Authentification robuste, validation des entrées, gestion des secrets, headers HTTP |
 | ✅ **Solutions** | Correctifs concrets, testés et documentés — pas juste un rapport |
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
+</div>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
