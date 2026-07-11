@@ -95,12 +95,12 @@ const lydiaix = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lydiaix&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lydiaix&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Lydiaix&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=06b6d4&currentStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e&currentStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 
 <br/>
 
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lydiaix&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+<img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lydiaix&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -116,21 +116,27 @@ const lydiaix = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lydiaix&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy-omega.vercel.app/?username=Lydiaix&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════ SNAKE ANIMÉ ═══════════════════════ -->
+<!--
+  🐍 Décommente ce bloc UNIQUEMENT après avoir lancé la GitHub Action `snake.yml` une fois
+  (onglet Actions → Generate Snake Animation → Run workflow). Elle crée la branche `output`
+  qui héberge le SVG. Tant que l'action n'a pas tourné, ce lien est mort.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lydiaix/Lydiaix/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" onerror="this.style.display='none'"/>
+<img src="https://raw.githubusercontent.com/Lydiaix/Lydiaix/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 
 </div>
 
 <br/>
+-->
+
 
 <!-- ═══════════════════════ APPROCHE SÉCURITÉ ═══════════════════════ -->
 
