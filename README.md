@@ -3,7 +3,7 @@
 <!-- ═══════════════════════ HEADER ANIMÉ ═══════════════════════ -->
 
 <a href="https://lydiaix.fr">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=210&section=header&text=Lydiaix&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur+Full-Stack+%C2%B7+Auditeur+S%C3%A9curit%C3%A9+%C2%B7+Vibe+Coder&descAlignY=55&descSize=17&descAlign=50" width="100%" alt="Lydiaix banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f172a,35:6d28d9,70:8b5cf6,100:06b6d4&height=240&text=Lydiaix&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=D%C3%A9veloppeur+Full-Stack+%C2%B7+Auditeur+S%C3%A9curit%C3%A9+%C2%B7+Vibe+Coder&descAlignY=58&descSize=17" width="100%" alt="Lydiaix banner"/>
 </a>
 
 <!-- ═══════════════════════ TYPING ANIMÉ ═══════════════════════ -->
@@ -24,7 +24,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Lydiaix&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS&labelColor=1e1b4b" alt="Profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,35:6d28d9,70:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
 
 </div>
 
@@ -50,7 +50,7 @@ const lydiaix = {
 - 🌐 Portfolio & contact : **[lydiaix.fr](https://lydiaix.fr)**
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,35:6d28d9,70:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
 </div>
 
 <!-- ═══════════════════════ STACK TECHNIQUE ANIMÉE ═══════════════════════ -->
@@ -174,7 +174,7 @@ const lydiaix = {
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,35:6d28d9,70:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
 
 </div>
 
@@ -218,7 +218,7 @@ const lydiaix = {
 
 <img src="https://raw.githubusercontent.com/Lydiaix/Lydiaix/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,35:6d28d9,70:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
 
 </div>
 
@@ -236,7 +236,7 @@ const lydiaix = {
 | ✅ **Solutions** | Correctifs concrets, testés et documentés — pas juste un rapport |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,35:6d28d9,70:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
 </div>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
@@ -251,8 +251,6 @@ const lydiaix = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=150&section=footer&text=lydiaix.fr&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%" alt="footer"/>
-
-<sub>⭐️ « Du prompt au produit — vibe coding en production » ⭐️</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:06b6d4,30:8b5cf6,65:6d28d9,100:0f172a&height=170&text=lydiaix.fr&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=68&desc=Du+prompt+au+produit+%E2%80%94+vibe+coding+en+production&descSize=13&descAlignY=88" width="100%" alt="footer"/>
 
 </div>
