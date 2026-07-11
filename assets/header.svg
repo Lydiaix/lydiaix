@@ -1,0 +1,78 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#312e81;#0f172a" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#6d28d9">
+        <animate attributeName="stop-color" values="#6d28d9;#8b5cf6;#6d28d9" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#22d3ee;#06b6d4" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Vague arrière -->
+  <path fill="url(#grad)" opacity="0.4" d="M0,215 Q150,177 300,215 T600,215 T900,215 T1200,215 L1200,0 L0,0 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+      values="M0,215 Q150,177 300,215 T600,215 T900,215 T1200,215 L1200,0 L0,0 Z;
+              M0,215 Q150,253 300,215 T600,215 T900,215 T1200,215 L1200,0 L0,0 Z;
+              M0,215 Q150,177 300,215 T600,215 T900,215 T1200,215 L1200,0 L0,0 Z"/>
+  </path>
+
+  <!-- Vague intermédiaire -->
+  <path fill="url(#grad)" opacity="0.6" d="M0,203 Q150,233 300,203 T600,203 T900,203 T1200,203 L1200,0 L0,0 Z">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+      values="M0,203 Q150,233 300,203 T600,203 T900,203 T1200,203 L1200,0 L0,0 Z;
+              M0,203 Q150,173 300,203 T600,203 T900,203 T1200,203 L1200,0 L0,0 Z;
+              M0,203 Q150,233 300,203 T600,203 T900,203 T1200,203 L1200,0 L0,0 Z"/>
+  </path>
+
+  <!-- Vague principale -->
+  <path fill="url(#grad)" d="M0,192 Q150,170 300,192 T600,192 T900,192 T1200,192 L1200,0 L0,0 Z">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+      values="M0,192 Q150,170 300,192 T600,192 T900,192 T1200,192 L1200,0 L0,0 Z;
+              M0,192 Q150,214 300,192 T600,192 T900,192 T1200,192 L1200,0 L0,0 Z;
+              M0,192 Q150,170 300,192 T600,192 T900,192 T1200,192 L1200,0 L0,0 Z"/>
+  </path>
+
+  <!-- Étoiles scintillantes -->
+  <g fill="#ffffff">
+    <circle cx="140" cy="60" r="2">
+      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="3s" begin="-1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="260" cy="118" r="1.6">
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4s" begin="-2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="390" cy="52" r="1.8">
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.5s" begin="-0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="52" r="2">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.8s" begin="-1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="105" r="1.7">
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4.2s" begin="-3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="66" r="2.2">
+      <animate attributeName="opacity" values="0.15;0.95;0.15" dur="3.2s" begin="-0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="150" r="1.4">
+      <animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.5s" begin="-2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1030" cy="150" r="1.5">
+      <animate attributeName="opacity" values="0.1;0.75;0.1" dur="3.8s" begin="-1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Titre -->
+  <style>
+    .title { font-size: 64px; font-weight: 800; letter-spacing: 2px; font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+    .desc { font-size: 18px; letter-spacing: 1px; font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+  <text text-anchor="middle" x="50%" y="112" class="title" fill="#ffffff">Lydiaix</text>
+  <text text-anchor="middle" x="50%" y="152" class="desc" fill="#e0e7ff" opacity="0.95">Développeur Full-Stack · Auditeur Sécurité · Vibe Coder</text>
+</svg>

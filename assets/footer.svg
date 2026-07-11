@@ -1,0 +1,72 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#22d3ee;#06b6d4" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#8b5cf6;#7c3aed" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a;#312e81;#0f172a" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Vague arrière -->
+  <path fill="url(#grad)" opacity="0.4" d="M0,48 Q150,22 300,48 T600,48 T900,48 T1200,48 L1200,200 L0,200 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+      values="M0,48 Q150,22 300,48 T600,48 T900,48 T1200,48 L1200,200 L0,200 Z;
+              M0,48 Q150,74 300,48 T600,48 T900,48 T1200,48 L1200,200 L0,200 Z;
+              M0,48 Q150,22 300,48 T600,48 T900,48 T1200,48 L1200,200 L0,200 Z"/>
+  </path>
+
+  <!-- Vague intermédiaire -->
+  <path fill="url(#grad)" opacity="0.6" d="M0,58 Q150,78 300,58 T600,58 T900,58 T1200,58 L1200,200 L0,200 Z">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+      values="M0,58 Q150,78 300,58 T600,58 T900,58 T1200,58 L1200,200 L0,200 Z;
+              M0,58 Q150,38 300,58 T600,58 T900,58 T1200,58 L1200,200 L0,200 Z;
+              M0,58 Q150,78 300,58 T600,58 T900,58 T1200,58 L1200,200 L0,200 Z"/>
+  </path>
+
+  <!-- Vague principale -->
+  <path fill="url(#grad)" d="M0,68 Q150,53 300,68 T600,68 T900,68 T1200,68 L1200,200 L0,200 Z">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
+      values="M0,68 Q150,53 300,68 T600,68 T900,68 T1200,68 L1200,200 L0,200 Z;
+              M0,68 Q150,83 300,68 T600,68 T900,68 T1200,68 L1200,200 L0,200 Z;
+              M0,68 Q150,53 300,68 T600,68 T900,68 T1200,68 L1200,200 L0,200 Z"/>
+  </path>
+
+  <!-- Étoiles scintillantes -->
+  <g fill="#ffffff">
+    <circle cx="150" cy="118" r="1.8">
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="3.2s" begin="-1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="162" r="1.5">
+      <animate attributeName="opacity" values="0.1;0.75;0.1" dur="4s" begin="-2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="170" r="1.4">
+      <animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.6s" begin="-0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="940" cy="120" r="2">
+      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.9s" begin="-1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1090" cy="158" r="1.7">
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="4.3s" begin="-3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="172" r="1.4">
+      <animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.4s" begin="-1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Texte -->
+  <style>
+    .title { font-size: 27px; font-weight: 700; letter-spacing: 1.5px; font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+    .desc { font-size: 13px; letter-spacing: 0.5px; font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+  <text text-anchor="middle" x="50%" y="128" class="title" fill="#ffffff">lydiaix.fr</text>
+  <text text-anchor="middle" x="50%" y="160" class="desc" fill="#e0e7ff" opacity="0.9">Du prompt au produit — vibe coding en production</text>
+</svg>

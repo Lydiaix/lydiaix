@@ -3,7 +3,7 @@
 <!-- ═══════════════════════ HEADER ANIMÉ ═══════════════════════ -->
 
 <a href="https://lydiaix.fr">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f172a,35:6d28d9,70:8b5cf6,100:06b6d4&height=240&text=Lydiaix&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=D%C3%A9veloppeur+Full-Stack+%C2%B7+Auditeur+S%C3%A9curit%C3%A9+%C2%B7+Vibe+Coder&descAlignY=58&descSize=17" width="100%" alt="Lydiaix banner"/>
+  <img src="assets/header.svg" width="100%" alt="Lydiaix — Développeur Full-Stack · Auditeur Sécurité · Vibe Coder"/>
 </a>
 
 <!-- ═══════════════════════ TYPING ANIMÉ ═══════════════════════ -->
@@ -251,6 +251,8 @@ const lydiaix = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:06b6d4,30:8b5cf6,65:6d28d9,100:0f172a&height=170&text=lydiaix.fr&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=68&desc=Du+prompt+au+produit+%E2%80%94+vibe+coding+en+production&descSize=13&descAlignY=88" width="100%" alt="footer"/>
+<a href="https://lydiaix.fr">
+  <img src="assets/footer.svg" width="100%" alt="lydiaix.fr — Du prompt au produit, vibe coding en production"/>
+</a>
 
 </div>
