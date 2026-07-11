@@ -3,13 +3,13 @@
 <!-- ═══════════════════════ HEADER ANIMÉ ═══════════════════════ -->
 
 <a href="https://lydiaix.fr">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Lydiaix&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vibe%20Coder%20%C2%B7%20Full-Stack%20%C2%B7%20Security%20Auditor&descAlignY=58&descSize=18" width="100%" alt="Lydiaix banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=210&section=header&text=Lydiaix&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Vibe+Coder+%C2%B7+Full-Stack+%C2%B7+Security+Auditor&descAlignY=55&descSize=17&descAlign=50" width="100%" alt="Lydiaix banner"/>
 </a>
 
 <!-- ═══════════════════════ TYPING ANIMÉ ═══════════════════════ -->
 
 <a href="https://lydiaix.fr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Je+d%C3%A9veloppe+tout+type+de+logiciel+avec+Claude;TypeScript+%C2%B7+React+%C2%B7+Node.js;Audits+de+s%C3%A9curit%C3%A9+complets+%26+solutions+robustes;Du+prompt+au+produit+%E2%80%94+vibe+coding+en+production" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=820&height=55&lines=Je+d%C3%A9veloppe+tout+type+de+logiciel+avec+Claude;TypeScript+%C2%B7+React+%C2%B7+Node.js;Audits+de+s%C3%A9curit%C3%A9+%26+solutions+robustes;Du+prompt+au+produit%2C+vibe+coding+en+prod" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -165,7 +165,7 @@ const lydiaix = {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=150&section=footer&text=lydiaix.fr&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%" alt="footer"/>
 
 <sub>⭐️ « Du prompt au produit — vibe coding en production » ⭐️</sub>
 
