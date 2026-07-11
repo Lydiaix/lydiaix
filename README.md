@@ -32,22 +32,26 @@
 
 ## 👨‍💻 À propos
 
-```typescript
-const lydiaix = {
-  role: "Développeur Full-Stack & Auditeur Sécurité",
-  copilote: "Claude 🤖 — du prompt à la production",
-  stack: ["TypeScript", "React", "Node.js"],
-  expertise: ["Développement logiciel", "Audits de sécurité", "Architecture robuste"],
-  methode: "Concevoir vite, sécuriser proprement, livrer solide",
-  site: "https://lydiaix.fr",
-  disponible: true,
-} as const;
-```
+Développeur **full-stack indépendant**, je conçois et livre des applications web complètes — du cadrage des besoins jusqu'au déploiement en production. Mon socle technique s'articule autour de **TypeScript, React et Node.js**, et j'ai industrialisé un workflow de développement assisté par IA (**Claude**) qui me permet de livrer rapidement, sans transiger sur la qualité ni la maintenabilité du code.
 
-- 🧠 Je conçois **tout type de logiciel** en pilotant **Claude** comme copilote de développement.
-- ⚡ Stack de prédilection : **TypeScript · React · Node.js** — du front au back, en production.
-- 🛡️ Je réalise des **audits de sécurité complets** (OWASP) et je livre des **correctifs concrets**, pas juste un rapport.
-- 🌐 Portfolio & contact : **[lydiaix.fr](https://lydiaix.fr)**
+En complément du développement, je réalise des **audits de sécurité applicative** fondés sur le référentiel **OWASP** : analyse du code et des dépendances, identification des vulnérabilités et remise de **correctifs concrets, testés et documentés** — pas seulement un rapport.
+
+### Domaines d'intervention
+
+<table>
+  <tr>
+    <th width="33%">💻 Développement</th>
+    <th width="33%">🛡️ Sécurité</th>
+    <th width="33%">🤝 Accompagnement</th>
+  </tr>
+  <tr>
+    <td>Applications web, API et SaaS sur mesure, de la conception à la mise en production.</td>
+    <td>Audits OWASP, revue de code, durcissement et plan de remédiation priorisé.</td>
+    <td>Architecture, choix techniques et intégration de l'IA dans le cycle de développement.</td>
+  </tr>
+</table>
+
+> 📌 **Disponible pour de nouvelles missions** — présentez-moi votre projet sur **[lydiaix.fr](https://lydiaix.fr)**
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,35:6d28d9,70:8b5cf6,100:06b6d4&height=4" width="100%" alt="divider"/>
